@@ -5,7 +5,7 @@
 
 # Characters:
 1. Pacman - yellow in colour.
-2. Ghosts : Blinky (red)
+2. Ghosts : Blinky (red) <br>
             Pinky (Pink)
             Inky (Blue)
             Cylide (orange)
