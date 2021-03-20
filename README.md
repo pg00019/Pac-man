@@ -20,7 +20,7 @@
 2. The Pacman cannot go inside the Ghosts-Lair.
 
 # Use Page - Up,Down ,Right, Left keys to play the game!!
-
+# Refresh the page everytime you want to start a new game.
 
 
 <b>Click on the below link to play the game:
